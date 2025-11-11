@@ -1,6 +1,10 @@
 # strawberry utils
 
 [![codecov](https://codecov.io/gh/Arfey/strawberry-utils/graph/badge.svg?token=CSUCQA6L3Y)](https://codecov.io/gh/Arfey/strawberry-utils)
+[![PyPI](https://img.shields.io/pypi/v/strawberry-utils)](https://pypi.org/project/strawberry-utils/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/strawberry-utils)](https://pypi.org/project/strawberry-utils/)
+
+
 
 ## OnlyOnceExecution
 
